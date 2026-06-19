@@ -1,0 +1,33 @@
+equipo,elo,p_octavos,p_cuartos,p_semis,p_finalista,p_campeon,llego_octavos,llego_cuartos,llego_semis,llego_final,campeon_real
+Brazil,2167,95.2,70.5,51.2,34.6,22.1,True,True,False,False,False
+Argentina,2143,95.5,64.6,43.8,31.9,18.9,True,True,True,True,True
+France,2073,89.1,57.3,30.7,20.5,10.9,True,True,True,True,False
+Netherlands,2003,88.0,57.3,38.2,16.6,7.4,True,True,False,False,False
+Spain,2034,82.0,51.0,29.7,14.1,7.4,True,False,False,False,False
+Belgium,2033,82.8,49.6,29.8,14.0,7.2,False,False,False,False,False
+Portugal,2018,86.3,46.1,22.1,11.9,5.6,True,True,False,False,False
+Denmark,1983,77.0,39.0,16.6,9.8,4.2,False,False,False,False,False
+Germany,1962,69.1,36.3,17.4,7.1,3.1,False,False,False,False,False
+England,1923,69.7,39.3,21.4,7.4,2.9,True,True,False,False,False
+Uruguay,1926,73.5,30.2,11.2,5.2,2.1,False,False,False,False,False
+Croatia,1926,63.1,30.0,13.0,4.8,1.8,True,True,True,False,False
+Switzerland,1913,62.3,29.0,9.8,4.0,1.7,True,False,False,False,False
+Ecuador,1841,63.1,31.0,12.4,3.3,1.0,False,False,False,False,False
+Wales,1822,47.4,20.9,8.8,2.4,0.7,False,False,False,False,False
+Iran,1798,41.5,17.7,7.2,1.9,0.6,False,False,False,False,False
+United States,1801,41.4,17.3,7.3,1.8,0.5,True,False,False,False,False
+Mexico,1809,44.6,14.6,3.5,1.5,0.4,False,False,False,False,False
+Poland,1813,46.1,14.4,3.5,1.6,0.4,True,False,False,False,False
+South Korea,1780,35.0,9.4,2.5,0.9,0.3,True,False,False,False,False
+Japan,1799,29.8,10.6,3.5,0.9,0.2,True,False,False,False,False
+Serbia,1803,34.7,12.6,3.0,0.9,0.2,False,False,False,False,False
+Canada,1778,30.6,9.8,3.0,0.8,0.2,False,False,False,False,False
+Senegal,1705,28.4,10.3,2.9,0.5,0.1,True,False,False,False,False
+Morocco,1751,23.6,7.3,2.1,0.4,0.1,True,True,True,False,False
+Costa Rica,1730,19.1,5.4,1.5,0.3,0.1,False,False,False,False,False
+Australia,1731,18.8,4.4,0.9,0.3,0.1,True,False,False,False,False
+Qatar,1652,20.5,6.2,1.7,0.3,0.0,False,False,False,False,False
+Tunisia,1705,15.1,3.5,0.6,0.2,0.0,False,False,False,False,False
+Saudi Arabia,1636,13.8,2.2,0.3,0.0,0.0,False,False,False,False,False
+Cameroon,1613,7.9,1.6,0.2,0.0,0.0,False,False,False,False,False
+Ghana,1534,5.2,0.5,0.1,0.0,0.0,False,False,False,False,False

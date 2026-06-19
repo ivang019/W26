@@ -1,0 +1,3 @@
+torneo,n_partidos,rps_modelo,rps_referencia,perm_p_valor,perm_sig,accuracy,accuracy_ref,acc_supera_ref,spearman_rho,spearman_p,spearman_sig
+2018,64,0.208,0.2439,0.0003,True,0.5469,0.4062,True,0.538,0.0015,True
+2022,64,0.2123,0.2387,0.0031,True,0.5469,0.4375,True,0.459,0.0083,True
