@@ -81,7 +81,7 @@ Sobre los 64 partidos de cada Mundial, se midió el desempeño del modelo frente
 
 En las tres métricas y en ambos torneos, el modelo mejora sobre la referencia ingenua entre 8% y 15%, siempre en la dirección correcta (valores más bajos indican mejor calibración).
 
-![Validación: modelo vs. referencia aleatoria](figures/validacion_metricas.png)
+![Validación: modelo vs. referencia aleatoria](Figures/validacion_metricas.png)
 
 ### Pruebas de significancia estadística
 
@@ -93,7 +93,7 @@ Dado que 64 partidos por torneo es una muestra modesta, se aplicaron tres prueba
 
 **Correlación de Spearman entre Elo pre-torneo y ronda alcanzada.** Asignando un valor ordinal a la ronda alcanzada por cada uno de los 32 equipos de cada torneo, la correlación con su Elo de entrada fue de ρ=0.538 (p=0.0015) en 2018 y ρ=0.459 (p=0.0083) en 2022. Ambas correlaciones son positivas, de magnitud moderada-alta, y estadísticamente significativas: el Elo predice de forma sistemática —aunque lejos de perfecta— qué tan lejos llega un equipo en el torneo.
 
-![Elo pre-torneo vs ronda alcanzada — Mundiales 2018 y 2022](figures/calibracion_elo_ronda.png)
+![Elo pre-torneo vs ronda alcanzada — Mundiales 2018 y 2022](Figures/calibracion_elo_ronda.png)
 
 ### Simulación retrospectiva de torneo completo
 
@@ -122,7 +122,7 @@ España aparece como favorito principal, seguida de Argentina y Francia. Es impo
 
 En el caso de México, el modelo le asigna una probabilidad de 2.5% de levantar el título y de 10.7% de llegar al menos a cuartos de final.
 
-![Top 10 favoritos al título — Mundial 2026](figures/top10_favoritos_2026.png)
+![Top 10 favoritos al título — Mundial 2026](Figures/top10_Favoritos_2026.png)
 
 La tabla completa con probabilidades por ronda (octavos, cuartos, semifinal, final, título) para las 48 selecciones está disponible en [`data/outputs/mc2026_probabilidades.csv`](data/outputs/mc2026_probabilidades.csv).
 
